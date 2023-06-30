@@ -5,8 +5,6 @@
 <h3>🎓 Studies</h3>
 I'm 3rd-year student at the Lodz University of Technology, with a passion for technology and software development in various aspects.
 
-<h3>⚡️ Hobbies</h3>
-In my free time, I am really into football, enjoying both playing and watching the game. I also have a strong interest in movies, I love to watching them. Additionally, playing online games with my friends is another activity that brings me joy and allows us to bond.
 
 ## 🛠️ My skills
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,redux,typescript,flutter,cs,azure,python,java,spring,mysql,postgres,mongodb,css,c,cpp,figma,postman)](https://skillicons.dev)
