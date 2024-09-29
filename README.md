@@ -3,7 +3,7 @@
 <h1>👋 Welcome to my GitHub profile!</h1>
 
 <h3>🎓 Studies</h3>
-I'm 3rd-year student at the Lodz University of Technology, with a passion for technology and software development in various aspects.
+I obtained a Bachelor's degree in Computer Science from the Lodz University of Technology.
 
 
 ## 🛠️ My skills
