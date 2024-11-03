@@ -1,7 +1,14 @@
 <h1>👋 Welcome to my GitHub profile!</h1>
 
-<h3>🎓 Studies</h3>
+
+<h3>🎓 Education </h3>
 I obtained a Bachelor's degree in Computer Science from the Lodz University of Technology.
+
+<h3> 💼 Professional Experience </h3>
+I have been working professionally since 2022, focusing on developing solutions with Microsoft technologies. My main expertise is in developing Dynamics 365-based systems using .NET Framework (C#), React and SQL Server. I also work with Power Platform, including PowerApps, Power Automate, and Power BI, to create efficient and integrated solutions.
+
+<h3> 🌱 Outside of Work </h3>
+In my free time, I enjoy building web and mobile applications, particularly with React, Flutter, Node.js and Firebase. I often explore open-source projects to improve my skills and find inspiration for new ideas.
 
 
 ## 🛠️ My skills
